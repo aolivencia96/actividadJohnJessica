@@ -13,5 +13,9 @@ public class HolaMundo {
         String ejemploF     = ejemplo01+ejemplo02;
         System.out.print(ejemploF);
         System.out.print("modificacion01");
+        int n   =   0;
+        for(int i = 0; i < 10; i++){
+            System.out.println("iteracion "+i+".");
+        }
     }    
 }
