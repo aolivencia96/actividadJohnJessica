@@ -14,8 +14,8 @@ public class HolaMundo {
         System.out.print(ejemploF);
         System.out.print("modificacion01");
         int n   =   0;
-        for(int i = 0; i < 10; i++){
-            System.out.println("iteracion "+i+".");
+        for(int i = 0; i < 12; i++){
+            System.out.println("iteración nº"+i+".");
         }
     }    
 }
