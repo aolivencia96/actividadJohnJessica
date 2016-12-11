@@ -12,5 +12,6 @@ public class HolaMundo {
         String ejemplo02    = "text";
         String ejemploF     = ejemplo01+ejemplo02;
         System.out.print(ejemploF);
+        System.out.print("\nmodificacion01");
     }    
 }
